@@ -1,0 +1,3 @@
+Run HH_simulation.m for the basic simulation.
+
+With Hydraulic_Hybrid_manual.slx the hydraulic hybrid vehicle model can be controlled in acceleration using a joystick.
